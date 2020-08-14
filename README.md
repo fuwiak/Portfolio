@@ -12,7 +12,7 @@ Sample output in **Pandas** dataframe.
 
 # Classification/Regression
 
-Turnover Analysis for HR - **Binary Classification** using **Logistic regression**.
+## Turnover Analysis for HR - **Binary Classification** using **Logistic regression**.
 Trying to find quitting formula. Used Python modules like:
 - pandas
 - numpy
@@ -20,14 +20,14 @@ Trying to find quitting formula. Used Python modules like:
 - matplotlib
 - seaborn
 
-**Columns**
+## Columns 
 
 ![columns_logistic](columns_logistic.png)
 
 **Predicted value(Label)**=left
 
 
-**Feature selection results**
+## Feature selection results
 
 ![feature_selection_logistic](feature_selection_logistic.png)
 
@@ -37,7 +37,7 @@ Trying to find quitting formula. Used Python modules like:
 
 
 
-**Results**
+## Results
 
 ![metrics_logistics](metrics_logistics.png)
 ![roc_curve_logistic](roc_curve_logistic.png)
