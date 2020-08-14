@@ -1,6 +1,8 @@
 # Data mining 
 
-# Data scraping 
+# Data scraping
+
+![scraped_ebay.png](scraped_ebay.png)
 
 # Classification/Regression
 
