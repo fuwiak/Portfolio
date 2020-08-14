@@ -24,6 +24,17 @@ Trying to find quitting formula. Used Python modules like:
 
 ![columns_logistic](columns_logistic.png)
 
+**Predicted value(Label)**=left
+
+
+**Feature selection results**
+
+![feature_selection_logistic](feature_selection_logistic.png)
+
+
+
+
+
 
 
 **Results**
