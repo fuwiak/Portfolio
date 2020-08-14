@@ -12,8 +12,14 @@ Sample output in **Pandas** dataframe.
 
 # Classification/Regression
 
-Turnover Analysis for HR - **Binary Classification** using **Logistic regression**.
-Trying to find quitting formula.
+- Turnover Analysis for HR - **Binary Classification** using **Logistic regression**.
+Trying to find quitting formula. Used Python modules like:
+- pandas
+- numpy
+- sklearn
+- matplotlib
+- seaborn
+
 
 
 
