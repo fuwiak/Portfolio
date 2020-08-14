@@ -20,10 +20,19 @@ Trying to find quitting formula. Used Python modules like:
 - matplotlib
 - seaborn
 
+**Columns**
+
+![columns_logistic](columns_logistic.png)
+
+
+
 **Results**
 
 ![metrics_logistics](metrics_logistics.png)
 ![roc_curve_logistic](roc_curve_logistic.png)
+
+
+
 
 
 
