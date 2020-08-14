@@ -20,8 +20,10 @@ Trying to find quitting formula. Used Python modules like:
 - matplotlib
 - seaborn
 
-![scraped_ebay.png](scraped_ebay.png)
+**Results**
 
+![metrics_logistics](metrics_logistics.png)
+![roc_curve_logistic](roc_curve_logistic.png)
 
 
 
