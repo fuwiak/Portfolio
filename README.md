@@ -75,7 +75,7 @@ Trying to find quitting formula. Used Python modules like:
 ## Sentiment histogram of Twitter post with hashtag #XBOX
 ![sentiment_hist](sentiment_hist.png)
 
-
+3) Avito prohibited content
 
 
 
