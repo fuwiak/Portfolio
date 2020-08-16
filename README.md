@@ -56,7 +56,10 @@ Trying to find quitting formula. Used Python modules like:
 # Clustering 
 
 
-# NLP 
+# NLP
+
+![trigram_hu](trigram_hu.png)
+
 
 
 # Chatbot telegram
