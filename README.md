@@ -62,6 +62,19 @@ Trying to find quitting formula. Used Python modules like:
 
 ![trigram_hu](trigram_hu.png)
 
+2) Twitter sentiment analysis using **R**
+- rtweet
+- tidyverse
+- ggplot2
+- dplyr
+# text mining library
+- tidytext
+
+![occ_xbox](occ_xbox.png)
+![sentiment_hist](sentiment_hist.png)
+
+
+
 
 
 # Chatbot telegram
