@@ -58,6 +58,8 @@ Trying to find quitting formula. Used Python modules like:
 
 # NLP
 
+1) Create trigrams and bigrams from **Hungary** corpus using **pandas** and **regular expresions**.
+
 ![trigram_hu](trigram_hu.png)
 
 
