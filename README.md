@@ -69,7 +69,10 @@ Trying to find quitting formula. Used Python modules like:
 - dplyr
 - tidytext
 
+## Most popular words in Twitter post with hashtag #XBOX
 ![occ_xbox](occ_xbox.png)
+
+## Sentiment histogram of Twitter post with hashtag #XBOX
 ![sentiment_hist](sentiment_hist.png)
 
 
