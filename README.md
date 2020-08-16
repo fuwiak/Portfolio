@@ -85,4 +85,7 @@ Trying to find quitting formula. Used Python modules like:
 # Image classification
 
 
-# Segmentation 
+# Segmentation
+
+
+# Statistics
