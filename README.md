@@ -67,7 +67,6 @@ Trying to find quitting formula. Used Python modules like:
 - tidyverse
 - ggplot2
 - dplyr
-# text mining library
 - tidytext
 
 ![occ_xbox](occ_xbox.png)
