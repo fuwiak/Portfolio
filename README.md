@@ -76,6 +76,7 @@ Trying to find quitting formula. Used Python modules like:
 ![sentiment_hist](sentiment_hist.png)
 
 3) Avito prohibited content
+4) Music generation
 
 
 
