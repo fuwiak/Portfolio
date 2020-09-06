@@ -75,6 +75,13 @@ Trying to find quitting formula. Used Python modules like:
 ## Sentiment histogram of Twitter post with hashtag #XBOX
 ![sentiment_hist](sentiment_hist.png)
 
+
+## Word network for polish elections(data from twitter api in R)
+![wybory_prezydenckie](wybory_prezydenckie.png)
+
+
+
+
 3) Avito prohibited content
 4) Music generation
 
