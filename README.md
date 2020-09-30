@@ -81,9 +81,17 @@ Trying to find quitting formula. Used Python modules like:
 
 
 ## Fake news detection
+1. Fetching a data from bigquery - column **type** as predicted values(labels)
 
 ![bigquery_todf](bigquery_todf.png)
 
+2.Some first n row
+
+![some_news](some_news.png)
+
+3. Using transfer learning method to predict labels
+
+![robert](robert.png)
 
 
 
