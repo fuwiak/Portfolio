@@ -80,6 +80,13 @@ Trying to find quitting formula. Used Python modules like:
 ![wybory_prezydenckie](wybory_prezydenckie.png)
 
 
+## Fake news detection
+
+![bigquery_todf](bigquery_todf.png)
+
+
+
+
 
 
 3) Avito prohibited content
